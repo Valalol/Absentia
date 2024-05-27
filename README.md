@@ -1,1 +1,1 @@
-# Absentia
+# Absentia le logiciel d'absence
